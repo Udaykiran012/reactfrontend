@@ -1,0 +1,29 @@
+.post_container {
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.post_container h1 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.social_buttons button {
+  cursor: pointer;
+  background-color: #eee;
+  border: none;
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+
+.social_counts {
+  margin-top: 10px;
+}
+
+.social_counts p {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=index.8e6f8ac7.css.map */
